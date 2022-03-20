@@ -1,10 +1,8 @@
 # Kickstarting with Excel
 ## Overview of Project and Purpose
-### Purpose We’re utilizing existing crowdfunding data to help Louise make an informed decision on whether or not she wants to launch her own campaign. More accurately, when she might want to launch it and where, based on the data we analyze and deliver to her in accordance with the parameters of her budget and what we understand she wants to portray with ‘Fever’. 
-## Analysis and Challenges
-### Analysis of Outcomes Based on Launch Date
-### Analysis of Outcomes Based on Goals
-### Challenges and Difficulties Encountered
+We’re utilizing existing crowdfunding data to help Louise make an informed decision on whether or not she wants to launch her own campaign. More accurately, when she might want to launch it and where, based on the data we analyze and deliver to her in accordance with the parameters of her budget and what we understand she wants to portray with ‘Fever’. 
+
+## Challenges and Difficulties Encountered
 Some of the challenges I encountered were becoming familiar and utilizing formulas I had not been exposed to prior to this class.  Utilizing VLOOKUP and COUNTIFS effectively required me to try and try again on many of the items; it was good exposure to what I keep hearing from the teaching staff that much of what we will be doing will be learning from trial and error.  I also learned how vital it is to pay attention to which column your data is!  Accidentally typing in D where you meant E will lead to potential confusion or disastrously incorrect data you might present to a client! DETAIL MATTERS!
 
 ## Results
